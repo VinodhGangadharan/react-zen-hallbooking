@@ -2,7 +2,7 @@
 #### Url: https://documenter.getpostman.com/view/37646230/2sAXqqc2jJ
 
 # Render Url:
-#### Create Room : https://react-zen-hallbooking.onrender.com/rooms/all
+#### Create Room : https://react-zen-hallbooking.onrender.com/rooms/create
 #### View Available Room: https://react-zen-hallbooking.onrender.com/rooms/all
 #### Book a Room : https://react-zen-hallbooking.onrender.com/booking/create/R2
 #### View Booked Room : https://react-zen-hallbooking.onrender.com/viewbooking
